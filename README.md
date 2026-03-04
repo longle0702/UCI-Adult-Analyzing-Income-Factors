@@ -1,4 +1,12 @@
-# UCI Adult Analyzing Income Factors
+# UCI Adult - Analyzing Income Factors
+**EPITA – MSc Artificial Intelligence Systems (AIS)**  
+**Spark & Python for Big Data AIS S2 F25**
+
+**Students:**
+- TRUONG Kim Tan
+- LE Linh Long
+- Farouk RAHAL
+---
 
 ## 1. Data Preprocessing
 - Handle missing values by creating `Unknown` category for each categorical column
